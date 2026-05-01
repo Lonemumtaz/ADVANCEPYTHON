@@ -22,7 +22,7 @@ ADVANCEPY is an advanced Python project. This repository contains code, scripts,
 	python <script_name>.py
 	```
 
-## Requirements
+## Requirements,
 - Python 3.7 or higher
 - See individual script files for additional dependencies
 
